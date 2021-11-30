@@ -1,0 +1,47 @@
+.project1 {
+  padding: 20px;
+  border: 1px solid white;
+}
+.project2 {
+  padding: 20px;
+  border: 1px solid white;
+  margin-left: 100px;
+}
+.project-btn {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.project1 {
+ 
+
+  color: rgba(0, 210, 218, 0.726);
+}
+.project1:hover {
+  background-color: rgb(9, 17, 54);
+  transform: scale(1.005);
+  transition: 0.3s;
+  color: white;
+  border: 1px solid white;
+}
+.project2 {
+ 
+
+  color: rgba(0, 210, 218, 0.726);
+}
+.project2:hover {
+  background-color: rgb(9, 17, 54);
+  transform: scale(1.005);
+  transition: 0.3s;
+  color: white;
+  border: 1px solid white;
+}
+.project-header{
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size:50px;
+    font-weight:500;
+    border-bottom: 1px solid white;
+}

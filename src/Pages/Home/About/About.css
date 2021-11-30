@@ -1,0 +1,36 @@
+.about-me{
+    background-color: #06061f;
+    height: 60vh;
+    max-width:55vw;
+    box-sizing: border-box;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    padding: 2rem 1rem;
+    
+}
+
+.about-btn {
+ 
+    color: rgba(0, 210, 218, 0.726);
+  }
+  .about-btn:hover {
+    background-color: rgb(9, 17, 54);
+    transform: scale(1.05);
+    transition:0.5s;
+    color: white;
+    border: 1px solid white;
+  }
+  .scroll-element {
+    min-height: 300px;
+    height: 100%;
+    background-color: #050820;
+  }
+.about-bg{
+    background-color:rgb(3, 3, 29);
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

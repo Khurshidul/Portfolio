@@ -1,0 +1,10 @@
+.blogs-section{
+    background-color: rgb(6, 6, 41);
+    min-height: 100vh;
+    
+}
+.blog-title{
+    margin: auto;
+    text-align: center;
+    padding-top: 200px;
+}

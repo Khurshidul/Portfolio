@@ -1,0 +1,29 @@
+.appBar {
+  background-color: rgb(2, 2, 31);
+}
+.resume{
+    color: rgb(255, 255, 255);
+}
+.resume:hover {
+    background-color: rgba(2, 16, 77, 0.637);
+    transform: scale(1.05);
+    transition:0.5s;
+    color: white;
+    border: 1px solid white;
+  }
+.btn-home {
+ 
+  color: rgba(0, 210, 218, 0.726);
+}
+.btn-home:hover {
+  background-color: rgb(9, 17, 54);
+  transform: scale(1.05);
+  transition:0.5s;
+  color: white;
+  border: 1px solid white;
+}
+.about {
+  background-color: rgb(9, 17, 54);
+  border: 1px solid white;
+  color: white;
+}

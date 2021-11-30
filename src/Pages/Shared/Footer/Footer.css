@@ -1,0 +1,78 @@
+.footer{
+   
+    display:flex;
+    justify-content:space-evenly;
+    background-color: rgb(7, 5, 34);
+    height: 300px;
+}
+
+.footer-title{
+    color:rgb(0, 14, 82);
+    margin: 20px 100px;
+}
+.fa-facebook-square{
+   
+    font-size:40px;
+    color:#275edf;
+    margin-left: 100px;
+    padding: 2px;
+    background-color: #0d052f;
+    border-radius: 8px;
+}
+.fa-instagram-square{
+    font-size:40px;
+    color:#275edf;
+    margin-left: 10px;
+    padding: 2px;
+    background-color: #0d052f;
+    border-radius: 8px;
+}
+.fa-twitter-square{
+    font-size:40px;
+    color:#275edf;
+    margin-left: 10px;
+    padding: 2px;
+    background-color: #0d052f;
+    border-radius: 8px;
+}
+.fa-whatsapp-square{
+    font-size:40px;
+    color:#275edf;
+    margin-left: 10px;
+    padding: 2px;
+    background-color: #0d052f;
+    border-radius: 8px;
+}
+
+.footer p{
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.footer-menu a{
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: bold;
+}
+.contact-item i{
+    padding:10px;
+font-size:25px;
+color:rgb(192, 0, 0);
+}
+.contact-item label{
+    font-size:20px;
+    color: #000000;
+}
+.contact-item label input{
+    padding: 8px 0;
+    line-height: 10px;
+    border: none;
+    border-radius:8px;
+    background-color: rgb(214, 212, 212);
+}
+@media only screen and (max-width: 688px) {
+    .footer{
+        display:block;
+    }
+    
+}
